@@ -259,6 +259,16 @@ PrefabInstance:
       propertyPath: m_Intensity
       value: 1.42
       objectReference: {fileID: 0}
+    - target: {fileID: 7205151327399965087, guid: 9e5d06095376f2244a30bbef700762c0,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.991
+      objectReference: {fileID: 0}
+    - target: {fileID: 7205151327399965087, guid: 9e5d06095376f2244a30bbef700762c0,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.147
+      objectReference: {fileID: 0}
     - target: {fileID: 8912049515002365231, guid: 9e5d06095376f2244a30bbef700762c0,
         type: 3}
       propertyPath: m_Intensity
