@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.examen3erparcial_vr.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\DeLaSalle\\7moSemestre\\RealidadVirtual\\3er Parcial\\Examen3erParcial_VR\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Examen3erParcial_VR [Testing]"
+        }
+      }
+    }
+  ]
+}
